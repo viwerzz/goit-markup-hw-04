@@ -535,4 +535,9 @@ img {
   margin-top: 8px;
   padding-left: 0;
   padding-right: 0;
+}
+.social-list-link.infooter:hover,
+.social-list-link.infooter:focus {
+  background-color: #31d0aa;
+}
   
